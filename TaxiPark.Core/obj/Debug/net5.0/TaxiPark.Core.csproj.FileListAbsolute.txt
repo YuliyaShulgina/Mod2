@@ -1,0 +1,12 @@
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.csproj.AssemblyReference.cache
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.AssemblyInfoInputs.cache
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.AssemblyInfo.cs
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.csproj.CoreCompileInputs.cache
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\bin\Debug\net5.0\TaxiPark.Core.deps.json
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\bin\Debug\net5.0\TaxiPark.Core.dll
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\bin\Debug\net5.0\ref\TaxiPark.Core.dll
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\bin\Debug\net5.0\TaxiPark.Core.pdb
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.dll
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\ref\TaxiPark.Core.dll
+C:\Users\alevel\Desktop\Project\Taxi\TaxiPark.Core\obj\Debug\net5.0\TaxiPark.Core.pdb

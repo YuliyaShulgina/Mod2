@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Taxi/1.0.0": {
+        "dependencies": {
+          "TaxiPark.Core": "1.0.0"
+        },
+        "runtime": {
+          "Taxi.dll": {}
+        }
+      },
+      "TaxiPark.Core/1.0.0": {
+        "runtime": {
+          "TaxiPark.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taxi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiPark.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
